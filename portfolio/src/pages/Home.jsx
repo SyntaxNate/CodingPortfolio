@@ -1,5 +1,5 @@
 import { Box, Stack, Button, Typography } from "@mui/material";
-import { Link } from "reactor-router-dom";
+import { Link } from "react-router-dom";
 
 function Home() {
 
